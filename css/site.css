@@ -55,7 +55,9 @@ main>.container {
 .checklist>li>span>i {
     color: orange;
 }
-
+.bg-custom {
+    background-color: rgb(198, 200, 206)!important;
+}
 code[class*="language-"],
         pre[class*="language-"] {            
             white-space: pre-wrap;            
